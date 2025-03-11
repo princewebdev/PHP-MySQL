@@ -31,6 +31,6 @@ echo $x , "\n";
 $x = ( 3 + 3 ) * 10 - 3;
 echo $x , "\n";
 
-// Root 
+// exponentiation operator 
 $x = 12 ** 2;
 echo $x , "\n";
